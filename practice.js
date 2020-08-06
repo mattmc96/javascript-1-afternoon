@@ -181,7 +181,6 @@ var age = 24
 // reassign the value of age to be one greater than it was, because, we all get older
 
 // Code Here
-age = 24
 age += 1
 
 
